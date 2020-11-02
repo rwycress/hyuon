@@ -1,0 +1,1000 @@
+{
+	"list": [
+		{
+			"unitName": "만남의광장",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "001",
+			"routeNo": "0010",
+			"routeName": "경부선",
+			"xValue": null,
+			"yValue": null
+		},
+		{
+			"unitName": "죽전휴게소",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "002",
+			"routeNo": "0010",
+			"routeName": "경부선",
+			"xValue": "127.104330",
+			"yValue": "37.332630"
+		},
+		{
+			"unitName": "기흥휴게소(부산)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "003",
+			"routeNo": "0010",
+			"routeName": "경부선",
+			"xValue": "127.105190",
+			"yValue": "37.235090"
+		},
+		{
+			"unitName": "안성휴게소(서울)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "004",
+			"routeNo": "0010",
+			"routeName": "경부선",
+			"xValue": "127.144980",
+			"yValue": "37.013860"
+		},
+		{
+			"unitName": "안성휴게소(부산)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "005",
+			"routeNo": "0010",
+			"routeName": "경부선",
+			"xValue": "127.131520",
+			"yValue": "37.076769"
+		},
+		{
+			"unitName": "망향휴게소(부산)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "030",
+			"routeNo": "0010",
+			"routeName": "경부선",
+			"xValue": "127.181609",
+			"yValue": "36.855309"
+		},
+		{
+			"unitName": "옥산휴게소(부산)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "032",
+			"routeNo": "0010",
+			"routeName": "경부선",
+			"xValue": "127.370720",
+			"yValue": "36.657200"
+		},
+		{
+			"unitName": "천안(삼)휴게소(서울)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "033",
+			"routeNo": "0010",
+			"routeName": "경부선",
+			"xValue": "127.172920",
+			"yValue": "36.787650"
+		},
+		{
+			"unitName": "천안휴게소(부산)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "034",
+			"routeNo": "0010",
+			"routeName": "경부선",
+			"xValue": "127.264270",
+			"yValue": "36.730530"
+		},
+		{
+			"unitName": "죽암휴게소(서울)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "035",
+			"routeNo": "0010",
+			"routeName": "경부선",
+			"xValue": "127.430430",
+			"yValue": "36.496849"
+		},
+		{
+			"unitName": "죽암휴게소(부산)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "036",
+			"routeNo": "0010",
+			"routeName": "경부선",
+			"xValue": "127.429720",
+			"yValue": "36.486640"
+		},
+		{
+			"unitName": "금강휴게소(부산)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "037",
+			"routeNo": "0010",
+			"routeName": "경부선",
+			"xValue": "127.671050",
+			"yValue": "36.279039"
+		},
+		{
+			"unitName": "옥천휴게소(서울)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "047",
+			"routeNo": "0010",
+			"routeName": "경부선",
+			"xValue": "127.598739",
+			"yValue": "36.297400"
+		},
+		{
+			"unitName": "황간휴게소(서울)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "048",
+			"routeNo": "0010",
+			"routeName": "경부선",
+			"xValue": "127.854490",
+			"yValue": "36.248970"
+		},
+		{
+			"unitName": "황간휴게소(부산)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "049",
+			"routeNo": "0010",
+			"routeName": "경부선",
+			"xValue": "127.853200",
+			"yValue": "36.248850"
+		},
+		{
+			"unitName": "입장휴게소(서울)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "050",
+			"routeNo": "0010",
+			"routeName": "경부선",
+			"xValue": "127.192309",
+			"yValue": "36.942319"
+		},
+		{
+			"unitName": "추풍령휴게소(서울)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "067",
+			"routeNo": "0010",
+			"routeName": "경부선",
+			"xValue": "128.002749",
+			"yValue": "36.199830"
+		},
+		{
+			"unitName": "추풍령휴게소(부산)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "068",
+			"routeNo": "0010",
+			"routeName": "경부선",
+			"xValue": "128.000920",
+			"yValue": "36.200450"
+		},
+		{
+			"unitName": "칠곡휴게소(서울)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "069",
+			"routeNo": "0010",
+			"routeName": "경부선",
+			"xValue": "128.430280",
+			"yValue": "36.012240"
+		},
+		{
+			"unitName": "경산휴게소(서울)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "070",
+			"routeNo": "0010",
+			"routeName": "경부선",
+			"xValue": "128.810380",
+			"yValue": "35.878710"
+		},
+		{
+			"unitName": "평사휴게소(부산)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "071",
+			"routeNo": "0010",
+			"routeName": "경부선",
+			"xValue": "128.866989",
+			"yValue": "35.885750"
+		},
+		{
+			"unitName": "칠곡휴게소(부산)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "072",
+			"routeNo": "0010",
+			"routeName": "경부선",
+			"xValue": "128.429380",
+			"yValue": "36.019549"
+		},
+		{
+			"unitName": "건천휴게소(서울)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "077",
+			"routeNo": "0010",
+			"routeName": "경부선",
+			"xValue": "129.109214",
+			"yValue": "35.831545"
+		},
+		{
+			"unitName": "건천휴게소(부산)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "078",
+			"routeNo": "0010",
+			"routeName": "경부선",
+			"xValue": "129.109468",
+			"yValue": "35.830270"
+		},
+		{
+			"unitName": "언양휴게소(서울)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "086",
+			"routeNo": "0010",
+			"routeName": "경부선",
+			"xValue": "129.141534",
+			"yValue": "35.598051"
+		},
+		{
+			"unitName": "신탄진휴게소(서울)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "102",
+			"routeNo": "0010",
+			"routeName": "경부선",
+			"xValue": null,
+			"yValue": null
+		},
+		{
+			"unitName": "옥천휴게소(부산)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "103",
+			"routeNo": "0010",
+			"routeName": "경부선",
+			"xValue": "127.595460",
+			"yValue": "36.297430"
+		},
+		{
+			"unitName": "경주휴게소(부산)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "107",
+			"routeNo": "0010",
+			"routeName": "경부선",
+			"xValue": "129.193150",
+			"yValue": "35.723870"
+		},
+		{
+			"unitName": "금강휴게소(서울)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "208",
+			"routeNo": "0010",
+			"routeName": "경부선",
+			"xValue": "126.999320",
+			"yValue": "36.519590"
+		},
+		{
+			"unitName": "청주휴게소(서울)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "218",
+			"routeNo": "0010",
+			"routeName": "경부선",
+			"xValue": "127.268120",
+			"yValue": "35.690480"
+		},
+		{
+			"unitName": "김천휴게소(서울)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "219",
+			"routeNo": "0010",
+			"routeName": "경부선",
+			"xValue": "127.351480",
+			"yValue": "35.337450"
+		},
+		{
+			"unitName": "김천휴게소(부산)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "220",
+			"routeNo": "0010",
+			"routeName": "경부선",
+			"xValue": "127.353950",
+			"yValue": "35.337240"
+		},
+		{
+			"unitName": "통도사휴게소(부산)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "221",
+			"routeNo": "0010",
+			"routeName": "경부선",
+			"xValue": "128.260120",
+			"yValue": "36.010390"
+		},
+		{
+			"unitName": "양산휴게소(서울)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "222",
+			"routeNo": "0010",
+			"routeName": "경부선",
+			"xValue": "128.260979",
+			"yValue": "36.008510"
+		},
+		{
+			"unitName": "섬진강휴게소(순천)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "053",
+			"routeNo": "0100",
+			"routeName": "남해선(순천-부산)",
+			"xValue": "127.769380",
+			"yValue": "34.985209"
+		},
+		{
+			"unitName": "섬진강휴게소(부산)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "054",
+			"routeNo": "0100",
+			"routeName": "남해선(순천-부산)",
+			"xValue": "127.770110",
+			"yValue": "34.984760"
+		},
+		{
+			"unitName": "장유휴게소(부산)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "083",
+			"routeNo": "0100",
+			"routeName": "남해선(순천-부산)",
+			"xValue": null,
+			"yValue": null
+		},
+		{
+			"unitName": "진영휴게소(순천)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "084",
+			"routeNo": "0100",
+			"routeName": "남해선(순천-부산)",
+			"xValue": "128.716050",
+			"yValue": "35.279630"
+		},
+		{
+			"unitName": "진영휴게소(부산)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "085",
+			"routeNo": "0100",
+			"routeName": "남해선(순천-부산)",
+			"xValue": "128.715800",
+			"yValue": "35.278349"
+		},
+		{
+			"unitName": "문산휴게소(순천)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "091",
+			"routeNo": "0100",
+			"routeName": "남해선(순천-부산)",
+			"xValue": "128.152279",
+			"yValue": "35.171470"
+		},
+		{
+			"unitName": "사천휴게소(순천)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "096",
+			"routeNo": "0100",
+			"routeName": "남해선(순천-부산)",
+			"xValue": "128.012620",
+			"yValue": "35.074639"
+		},
+		{
+			"unitName": "사천휴게소(부산)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "097",
+			"routeNo": "0100",
+			"routeName": "남해선(순천-부산)",
+			"xValue": "128.010879",
+			"yValue": "35.073600"
+		},
+		{
+			"unitName": "함안휴게소(부산)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "213",
+			"routeNo": "0100",
+			"routeName": "남해선(순천-부산)",
+			"xValue": "127.484130",
+			"yValue": "36.542629"
+		},
+		{
+			"unitName": "함안휴게소(순천)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "214",
+			"routeNo": "0100",
+			"routeName": "남해선(순천-부산)",
+			"xValue": "126.509641",
+			"yValue": "35.242843"
+		},
+		{
+			"unitName": "진주휴게소(부산)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "215",
+			"routeNo": "0100",
+			"routeName": "남해선(순천-부산)",
+			"xValue": "127.193930",
+			"yValue": "35.876700"
+		},
+		{
+			"unitName": "보성녹차휴게소(무안)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "232",
+			"routeNo": "0101",
+			"routeName": "남해선(영암-순천)",
+			"xValue": null,
+			"yValue": null
+		},
+		{
+			"unitName": "보성녹차휴게소(광양)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "233",
+			"routeNo": "0101",
+			"routeName": "남해선(영암-순천)",
+			"xValue": null,
+			"yValue": null
+		},
+		{
+			"unitName": "남원휴게소(대구)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "057",
+			"routeNo": "0120",
+			"routeName": "광주대구선",
+			"xValue": "127.342240",
+			"yValue": "35.416530"
+		},
+		{
+			"unitName": "지리산휴게소(대구)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "058",
+			"routeNo": "0120",
+			"routeName": "광주대구선",
+			"xValue": "127.567460",
+			"yValue": "35.483630"
+		},
+		{
+			"unitName": "지리산휴게소(고서)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "059",
+			"routeNo": "0120",
+			"routeName": "광주대구선",
+			"xValue": "127.567100",
+			"yValue": "35.481210"
+		},
+		{
+			"unitName": "거창휴게소(대구)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "073",
+			"routeNo": "0120",
+			"routeName": "광주대구선",
+			"xValue": "128.057079",
+			"yValue": "35.708110"
+		},
+		{
+			"unitName": "거창휴게소(고서)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "074",
+			"routeNo": "0120",
+			"routeName": "광주대구선",
+			"xValue": "128.056940",
+			"yValue": "35.706070"
+		},
+		{
+			"unitName": "함양산삼골휴게소(고서)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "075",
+			"routeNo": "0120",
+			"routeName": "광주대구선",
+			"xValue": "127.757900",
+			"yValue": "35.532560"
+		},
+		{
+			"unitName": "논공휴게소(고서)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "076",
+			"routeNo": "0120",
+			"routeName": "광주대구선",
+			"xValue": null,
+			"yValue": null
+		},
+		{
+			"unitName": "함양산삼골휴게소(대구)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "216",
+			"routeNo": "0120",
+			"routeName": "광주대구선",
+			"xValue": "127.196300",
+			"yValue": "35.877260"
+		},
+		{
+			"unitName": "논공휴게소(대구)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "217",
+			"routeNo": "0120",
+			"routeName": "광주대구선",
+			"xValue": "127.267490",
+			"yValue": "35.688510"
+		},
+		{
+			"unitName": "강천산휴게소(대구)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "237",
+			"routeNo": "0120",
+			"routeName": "광주대구선",
+			"xValue": "127.105880",
+			"yValue": "35.365440"
+		},
+		{
+			"unitName": "강천산휴게소(광주)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "238",
+			"routeNo": "0120",
+			"routeName": "광주대구선",
+			"xValue": "127.104370",
+			"yValue": "35.364360"
+		},
+		{
+			"unitName": "함평나비휴게소(광주)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "155",
+			"routeNo": "0121",
+			"routeName": "무안광주선",
+			"xValue": "126.511490",
+			"yValue": "35.037630"
+		},
+		{
+			"unitName": "함평나비휴게소(무안)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "156",
+			"routeNo": "0121",
+			"routeName": "무안광주선",
+			"xValue": "126.509030",
+			"yValue": "35.037890"
+		},
+		{
+			"unitName": "화성휴게소(서울)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "014",
+			"routeNo": "0150",
+			"routeName": "서해안선",
+			"xValue": "126.880730",
+			"yValue": "37.143370"
+		},
+		{
+			"unitName": "화성휴게소(목포)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "015",
+			"routeNo": "0150",
+			"routeName": "서해안선",
+			"xValue": "126.879400",
+			"yValue": "37.145460"
+		},
+		{
+			"unitName": "행담도휴게소(목포)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "106",
+			"routeNo": "0150",
+			"routeName": "서해안선",
+			"xValue": "126.808669",
+			"yValue": "36.944530"
+		},
+		{
+			"unitName": "대천휴게소(서울)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "108",
+			"routeNo": "0150",
+			"routeName": "서해안선",
+			"xValue": "126.557690",
+			"yValue": "36.374120"
+		},
+		{
+			"unitName": "대천휴게소(목포)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "109",
+			"routeNo": "0150",
+			"routeName": "서해안선",
+			"xValue": "126.556290",
+			"yValue": "36.373210"
+		},
+		{
+			"unitName": "서산휴게소(서울)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "116",
+			"routeNo": "0150",
+			"routeName": "서해안선",
+			"xValue": "126.565650",
+			"yValue": "36.733779"
+		},
+		{
+			"unitName": "서산휴게소(목포)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "117",
+			"routeNo": "0150",
+			"routeName": "서해안선",
+			"xValue": "126.565630",
+			"yValue": "36.742870"
+		},
+		{
+			"unitName": "군산휴게소(서울)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "118",
+			"routeNo": "0150",
+			"routeName": "서해안선",
+			"xValue": "126.797050",
+			"yValue": "36.018830"
+		},
+		{
+			"unitName": "군산휴게소(목포)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "119",
+			"routeNo": "0150",
+			"routeName": "서해안선",
+			"xValue": "126.829300",
+			"yValue": "35.981090"
+		},
+		{
+			"unitName": "함평휴게소(목포)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "124",
+			"routeNo": "0150",
+			"routeName": "서해안선",
+			"xValue": "126.478770",
+			"yValue": "35.069530"
+		},
+		{
+			"unitName": "함평휴게소(서울)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "125",
+			"routeNo": "0150",
+			"routeName": "서해안선",
+			"xValue": "126.481640",
+			"yValue": "35.130800"
+		},
+		{
+			"unitName": "홍성휴게소(서울)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "138",
+			"routeNo": "0150",
+			"routeName": "서해안선",
+			"xValue": "126.581520",
+			"yValue": "36.553039"
+		},
+		{
+			"unitName": "홍성휴게소(무안)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "139",
+			"routeNo": "0150",
+			"routeName": "서해안선",
+			"xValue": "126.579960",
+			"yValue": "36.552740"
+		},
+		{
+			"unitName": "서천휴게소(서울)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "150",
+			"routeNo": "0150",
+			"routeName": "서해안선",
+			"xValue": "126.627430",
+			"yValue": "36.131450"
+		},
+		{
+			"unitName": "서천휴게소(목포)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "151",
+			"routeNo": "0150",
+			"routeName": "서해안선",
+			"xValue": "126.626700",
+			"yValue": "36.129920"
+		},
+		{
+			"unitName": "고창고인돌휴게소(서울)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "174",
+			"routeNo": "0150",
+			"routeName": "서해안선",
+			"xValue": "126.846100",
+			"yValue": "36.619150"
+		},
+		{
+			"unitName": "고창고인돌휴게소(목포)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "175",
+			"routeNo": "0150",
+			"routeName": "서해안선",
+			"xValue": "126.840140",
+			"yValue": "36.623480"
+		},
+		{
+			"unitName": "목감휴게소(서울)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "241",
+			"routeNo": "0150",
+			"routeName": "서해안선",
+			"xValue": null,
+			"yValue": null
+		},
+		{
+			"unitName": "매송휴게소(서울)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "256",
+			"routeNo": "0150",
+			"routeName": "서해안선",
+			"xValue": "129.013494",
+			"yValue": "36.455646"
+		},
+		{
+			"unitName": "매송휴게소(목포)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "257",
+			"routeNo": "0150",
+			"routeName": "서해안선",
+			"xValue": "128.745596",
+			"yValue": "37.965160"
+		},
+		{
+			"unitName": "영천휴게소(포항)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "140",
+			"routeNo": "0200",
+			"routeName": "대구포항선",
+			"xValue": "129.042250",
+			"yValue": "36.051990"
+		},
+		{
+			"unitName": "영천휴게소(대구)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "141",
+			"routeNo": "0200",
+			"routeName": "대구포항선",
+			"xValue": "129.045020",
+			"yValue": "36.052450"
+		},
+		{
+			"unitName": "청통휴게소",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "142",
+			"routeNo": "0200",
+			"routeName": "대구포항선",
+			"xValue": "128.859690",
+			"yValue": "35.993640"
+		},
+		{
+			"unitName": "와촌휴게소",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "143",
+			"routeNo": "0200",
+			"routeName": "대구포항선",
+			"xValue": null,
+			"yValue": null
+		},
+		{
+			"unitName": "마이산휴게소(장수)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "187",
+			"routeNo": "0201",
+			"routeName": "익산장수선",
+			"xValue": "128.344439",
+			"yValue": "35.294219"
+		},
+		{
+			"unitName": "마이산휴게소(익산)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "188",
+			"routeNo": "0201",
+			"routeName": "익산장수선",
+			"xValue": "127.580100",
+			"yValue": "37.278650"
+		},
+		{
+			"unitName": "진안휴게소(익산)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "239",
+			"routeNo": "0201",
+			"routeName": "익산장수선",
+			"xValue": null,
+			"yValue": null
+		},
+		{
+			"unitName": "진안휴게소(장수)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "240",
+			"routeNo": "0201",
+			"routeName": "익산장수선",
+			"xValue": null,
+			"yValue": null
+		},
+		{
+			"unitName": "여산휴게소(천안)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "044",
+			"routeNo": "0251",
+			"routeName": "호남선",
+			"xValue": "127.104390",
+			"yValue": "36.048559"
+		},
+		{
+			"unitName": "여산휴게소(순천)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "045",
+			"routeNo": "0251",
+			"routeName": "호남선",
+			"xValue": "127.103130",
+			"yValue": "36.048690"
+		},
+		{
+			"unitName": "정읍휴게소(천안)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "051",
+			"routeNo": "0251",
+			"routeName": "호남선",
+			"xValue": "126.863870",
+			"yValue": "35.600590"
+		},
+		{
+			"unitName": "정읍휴게소(순천)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "052",
+			"routeNo": "0251",
+			"routeName": "호남선",
+			"xValue": "126.862200",
+			"yValue": "35.600960"
+		},
+		{
+			"unitName": "주암휴게소(순천)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "055",
+			"routeNo": "0251",
+			"routeName": "호남선",
+			"xValue": "127.264270",
+			"yValue": "35.076340"
+		},
+		{
+			"unitName": "곡성휴게소(천안)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "056",
+			"routeNo": "0251",
+			"routeName": "호남선",
+			"xValue": "127.152460",
+			"yValue": "35.259130"
+		},
+		{
+			"unitName": "백양사휴게소(천안)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "060",
+			"routeNo": "0251",
+			"routeName": "호남선",
+			"xValue": "126.806980",
+			"yValue": "35.393090"
+		},
+		{
+			"unitName": "백양사휴게소(순천)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "061",
+			"routeNo": "0251",
+			"routeName": "호남선",
+			"xValue": "126.805770",
+			"yValue": "35.394450"
+		},
+		{
+			"unitName": "주암휴게소(천안)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "062",
+			"routeNo": "0251",
+			"routeName": "호남선",
+			"xValue": "127.265490",
+			"yValue": "35.076580"
+		},
+		{
+			"unitName": "곡성휴게소(순천)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "063",
+			"routeNo": "0251",
+			"routeName": "호남선",
+			"xValue": "127.150860",
+			"yValue": "35.258620"
+		},
+		{
+			"unitName": "순천휴게소(순천)",
+			"pageNo": null,
+			"numOfRows": null,
+			"unitCode": "064",
+			"routeNo": "0251",
+			"routeName": "호남선",
+			"xValue": "127.445170",
+			"yValue": "35.008800"
+		}
+	],
+	"count": 226,
+	"pageNo": 1,
+	"numOfRows": 99,
+	"pageSize": 3,
+	"message": "인증키가 유효합니다.",
+	"code": "SUCCESS"
+}

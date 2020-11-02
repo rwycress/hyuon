@@ -1,0 +1,48 @@
+.search-area-header {
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+  height: 50px;
+}
+
+.area-title {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+}
+
+.search-area-box {
+  display: flex;
+  /* height: 80px;
+  justify-content: center;
+  align-items: center; */
+}
+
+.searcharea {
+  width: 100%;
+  padding-right: 10px;
+}
+
+.area-input {
+  width: 100%;
+}
+
+.ant-select-selector,
+.ant-select-selection-search-input,
+.ant-select-selection-placeholder,
+.ant-select-selection-item {
+  height: 50px !important;
+  line-height: 50px !important;
+}
+
+.mylocation {
+  /* width: 10%; */
+  padding-left: 10px;
+}
+
+.mylocation-btn {
+  height: 50px !important;
+  width: 50px !important;
+  margin: 0 !important;
+}
